@@ -84,7 +84,7 @@ $ uvicorn main:app --reload
 ```
 <br />
 
-> **Step 5** - Go to http://localhost:8000 on any browser and enjoy researching!
+> **Step 5** - Go to http://localhost:8010 on any browser and enjoy researching!
 
 - **update:** if you are having issues with weasyprint, please visit their website and follow the installation instructions: https://doc.courtbouillon.org/weasyprint/stable/first_steps.html
 
@@ -106,7 +106,7 @@ $ export OPENAI_API_KEY={Your API Key here}
 $ docker-compose up
 ```
 
-> **Step 4** - Go to http://localhost:8000 on any browser and enjoy researching!
+> **Step 4** - Go to http://localhost:8010 on any browser and enjoy researching!
 
 - **update:** if you are having issues with weasyprint, please visit their website and follow the installation instructions: https://doc.courtbouillon.org/weasyprint/stable/first_steps.html
 
